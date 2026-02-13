@@ -4,9 +4,11 @@ Web Scraping :
 هي عملية او طريقة لإستخراج البيانات عبر سكريبت لأغراض تحليلية أو دراسة مجال ما
 ~~
 
-~~Web thingspeak :~~
+Web thingspeak :
+~~
 هو منصة إنترنت الأشياء
 يعني يسمح للأجهزة المتصلة بالإنترنت ترسل بياناتها ويتم تخزينها وتحليلها.
 و هو شبيه إلى حدا ما موقع Askasenser 
-Web Scraping for web thingspeak :~~
+Web Scraping for web thingspeak :
+~~
 إنشاء سكريبت بالبايثن 
