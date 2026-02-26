@@ -1,16 +1,20 @@
 # Web Scraping Thingspeak :
-Web Scraping :
+> [!TIP]
+> Web Scraping :
+
 ~~
 هي عملية او طريقة لإستخراج البيانات عبر سكريبت لأغراض تحليلية أو دراسة مجال ما
 ~~
 
-Web thingspeak :
+> [!TIP]
+> Web thingspeak :
+
 ~~
 هو منصة إنترنت الأشياء
 يعني يسمح للأجهزة المتصلة بالإنترنت ترسل بياناتها ويتم تخزينها وتحليلها.
 و هو شبيه إلى حدا ما موقع Askasenser 
-
-Web Scraping for web thingspeak :
+> [!TIP]
+> Web Scraping for web thingspeak :
 ~~
 إنشاء سكريبت بالبايثن يستخرج البيانات من الموقع و بعرضها على ملف csv 
 
